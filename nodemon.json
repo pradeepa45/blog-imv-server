@@ -1,0 +1,6 @@
+{
+  "watch": ["server"],
+  "ext": "js,graphql",
+  "ignore": ["dist"],
+  "exec": "babel-node server/index.js"
+}
